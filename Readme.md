@@ -1,5 +1,7 @@
 # 函数式编程术语
 
+
+
 > 译者注：本项目译自 [functional-programing-jargon](https://github.com/hemanth/functional-programming-jargon)，专业术语居多，如有错误，可以提 pr 更正。除了术语翻译，针对每项术语，也有代码示例，位于 /demos 目录下。另外，这里也有几份不错的文章和仓库。
   + [函数式编程入门教程](http://www.ruanyifeng.com/blog/2017/02/fp-tutorial.html)
   + [mostly-adequate-guide (10749 stars)](https://github.com/MostlyAdequate/mostly-adequate-guide)
